@@ -16,4 +16,4 @@ I'm a Software developer, and in my professional experience I provide software s
 - 🌱 I'm currently immersing myself in the craft and discipline of Software Engineering.
 - 📙 Check out my [Resume](https://drive.google.com/file/)
 - 😄 Pronouns: He/Him
-- 🎉 Fun-Fact: I find coding active and need help! 😁
+- 🎉 Fun-Fact: I find coding addictive and need help! 😁
