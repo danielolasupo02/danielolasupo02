@@ -1,19 +1,50 @@
-<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hello! I am <a href="https://github.com/danielolasupo02">Daniel Olasupo</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
-</h1>
+### Hi there, I'm Daniel Olasupo 👋 !
 
-#### 📬 Find me at
+I'm a FullStack Developper JAVA Spring | React </br>
+- 💕 I am currently Software Engineer at @CSDC inc </br>
+- 😍 Passionate about web development. </br>
+- 📫 How to reach me: danielolasupo02@gmail.com
+</div>  
 
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/danielolasupo02)](https://github.com/danielolasupo02)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rita-okonkwo/)](https://www.linkedin.com/in/daniel-olasupo/)
+### Connect with me:
+<a href="www.linkedin.com/in/daniel-olasupo">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:danielolasupo02@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### A little about me... <img src="https://media.giphy.com/media/IcdIKJQbS7T9yNg0su/giphy.gif" width="50">
+</br>
 
-I'm a Software developer, and in my professional experience I provide software solutions to automate tasks carried out by government bodies. With a focus on both frontend and backend development. I leverage my expertise in HTML, CSS, JavaScript, Bootstrap, jQuery, and Java to create custom software solutions that streamline processes and improve efficiency.<br/><br/>
+### 👨‍💻 I have already worked with the following technologies !
+<details open>
+  <summary> 
+    Languages
+  </summary>
 
-## ⚡️ A Few Quick Facts
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-777BB4?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</details>
 
-- 🔭 I’m currently cloning FAANG-like websites to hone my flexbox and grid knowledge 😄
-- 🌱 I'm currently immersing myself in the craft and discipline of Software Engineering.
-- 📙 Check out my [Resume](https://drive.google.com/file/)
-- 😄 Pronouns: He/Him
-- 🎉 Fun-Fact: I find coding addictive and need help! 😁
+<details open>
+  <summary> 
+    Frameworks
+  </summary>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-BD002E?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/> 
+</details>
+
+
+<details open>
+  <summary> 
+    Databases
+  </summary>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+ <img src="https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
+</details>
