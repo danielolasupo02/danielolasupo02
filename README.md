@@ -1,7 +1,7 @@
 ### Hi there, I'm Daniel Olasupo 👋 !
 
 I'm a FullStack Developper JAVA Spring | React </br>
-- 💕 I am currently Software Engineer at @CSDC inc </br>
+- 💕 I am currently Software Engineer at @Union Bank of Nigeria </br>
 - 😍 Passionate about web development. </br>
 - 📫 How to reach me: danielolasupo02@gmail.com
 </div>  
